@@ -1,0 +1,35 @@
+Criar os arquivos
+index.html
+app.js
+github.js
+ui.js
+
+Usaremos o bootswatch endereço: https://bootswatch.com
+é uma variação de templates do bootstrap
+iremos usar o template Litera
+Clique com o botão direito em download 
+depois em abrir em uma nova janela ele vai carregar o código
+clique no link da url e copie o link https://bootswatch.com/5/litera/bootstrap.min.css
+adicione no index.html
+
+Adicione o bootstrap 
+va em getbootstrap.com
+copie o CDN do java script e cole no final
+
+Adicione os scripts do nosso código
+a ordem interfere adicione na sequência de cima para baixo
+github.js
+ui.js
+app.js
+
+Criamos o menu
+Criamos o card
+Criamos o input de busca
+Criamos o footer
+
+
+
+
+
+
+
