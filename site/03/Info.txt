@@ -1,0 +1,2 @@
+Criamos uma UI class
+Criamos o método showProfile para apresentar os profiles dos usuários

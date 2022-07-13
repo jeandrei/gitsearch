@@ -1,0 +1,16 @@
+no arquivo app.js
+Criamos um eventListener para o input searchUser
+
+no arquivo github.js
+criamos uma classe GitHub
+client id 3c56e042ba0eb95c6be0
+secret c3962b679a181eec030049fed392e682e3db443c
+
+Criamos a classe GitHub
+dentro da classe GitHub criamos um metodo getUser
+que é parecido com o EasyHTTP que criamos durante o curso
+Vamos criar o getUser para pegar o usuário e outra para pegar
+os repositórios do usuário
+getUser https://api.github.com/users/"username"
+exemplo: https://api.github.com/users/jeandrei
+e os repositórios em https://api.github.com/users/jeandrei/repos

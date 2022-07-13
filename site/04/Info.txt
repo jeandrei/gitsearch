@@ -1,0 +1,4 @@
+No arquivo ui.js dentro da classe UI criar o método clearProfile();
+Executar a clearProfile() no app.js caso o texto do input fique em branco
+No arquivo ui.js dentro da classe UI criar o método showAlert();
+Chamar o showAlert() no app.js caso o usuário não seja encontrado
