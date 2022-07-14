@@ -49,6 +49,7 @@ async function Search(e){
         showLoading(false);
       } else {         
         ui.showProfile(data.profile);
+        ui.showRepos(data.repos);
          //hide loader
          showLoading(false);     
       }
